@@ -1,0 +1,5 @@
+# Línea de comando para ejecutar
+del /s /f /q "C:\Users\mespinoza_vm\AppData\Local\Temp\*.*"
+
+# Directorio en funcionamiento
+C:\Users\mespinoza_vm\AppData\Local\Temp
